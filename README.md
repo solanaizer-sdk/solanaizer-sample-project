@@ -118,11 +118,4 @@ Add your own smart contracts, create a pull request and you should see the repor
 
 - [Solanaizer on the Github Action Marketplace](https://github.com/marketplace/actions/github-action-for-solanaizer)
 - [solanaizer/solanaizer-action Repository](https://github.com/solanaizer/solanaizer-action)
-
-## Team 👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻
-
-- [Alex Straw](https://github.com/alex-straw) (Engineer)
-- [Dimitris Dinis Gridian](https://github.com/DinisDimitris) (Engineer)
-- [Jean-Philippe Monette](https://github.com/jpmonette) (Engineer)
-- [Michal Hoffman](https://github.com/MZHoffman) (Engineer)
-- [Mikołaj Kącki](https://github.com/mkacki98) (Engineer)
+ 
